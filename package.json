@@ -1,0 +1,28 @@
+{
+  "name": "rollbot",
+  "version": "0.0.1",
+  "description": "A discord bot to use the roll20 api",
+  "author": "HTF",
+  "contributors": [{
+  "name": "HTF",
+  "email": "harderthanfire@gmail.com"
+}],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "/index.js",
+  "dependencies": {
+    "discordie": "0.6.5",
+    "underscore-node": "0.1.2",
+    "jquery": "2.2.3",
+    "simple-jsdom": "2.0.0"
+  },
+  "devDependencies": {
+  },
+  "preferGlobal": true,
+  "private": true,
+  "publishConfig": {
+},
+  "analyze": true,
+  "license": "MIT"
+}
