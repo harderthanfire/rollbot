@@ -12,7 +12,7 @@
   },
   "main": "/index.js",
   "dependencies": {
-    "discordie": "0.6.5",
+    "discordie": "0.8.1",
     "underscore-node": "0.1.2",
     "jquery": "2.2.3",
     "simple-jsdom": "2.0.0"
