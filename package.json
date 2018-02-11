@@ -14,7 +14,7 @@
   "dependencies": {
     "discordie": "0.8.1",
     "underscore-node": "0.1.2",
-    "jquery": "2.2.3",
+    "jquery": "3.0.0",
     "simple-jsdom": "2.0.0"
   },
   "devDependencies": {
